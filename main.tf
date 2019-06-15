@@ -2,3 +2,12 @@ terraform {
    backend "remote" {
    }
 }
+
+
+
+
+
+
+
+resource {
+}
