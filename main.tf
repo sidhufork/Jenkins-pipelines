@@ -9,5 +9,7 @@ terraform {
 
 
 
-resource {
-}
+provider {
+
+} 
+
